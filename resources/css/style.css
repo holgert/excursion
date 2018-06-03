@@ -2,26 +2,32 @@ html {
     font-family: Verdana;
     background-color: black;
     text-align: center;
+    color: white;
   }
-
-#link {
-    color: aquamarine;
-    font-size: 16px;
-}  
 
 h1 {
     font-weight: normal;
     font-size: 50px;
-    color: white;
     text-align: center;
 }
 
-h2{
+h2 {
     font-weight: 300;
     font-size: 42px;
 }
 
-.text {
+
+.tagline {
     font-size: 21px;
     color: grey;
+}
+
+.teaser {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.footer {
+    color: grey;
+    text-align: right;
 }
